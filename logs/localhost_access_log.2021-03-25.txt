@@ -1,0 +1,8 @@
+127.0.0.1 - - [25/Mar/2021:23:25:37 -0500] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:23:25:39 -0500] "GET /EventRegistration/ HTTP/1.1" 200 3909
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:23:25:39 -0500] "GET /EventRegistration/CSS/common.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:23:25:42 -0500] "GET /EventRegistration/login.jsp HTTP/1.1" 200 3413
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:23:25:48 -0500] "POST /EventRegistration/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:23:25:48 -0500] "GET /EventRegistration/admin/index.jsp HTTP/1.1" 200 3363
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:23:25:50 -0500] "GET /EventRegistration/admin/events.jsp HTTP/1.1" 200 4074
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:23:25:56 -0500] "POST /EventRegistration/eventadd_controller HTTP/1.1" 500 2454

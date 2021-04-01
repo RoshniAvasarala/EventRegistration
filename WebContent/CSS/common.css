@@ -1,0 +1,161 @@
+#footer{
+	height: 100px;
+	background-color: #AFD5E1;
+	margin-top: 80vh;
+}
+.register .row{
+	margin-top: 20px!important;
+	padding: 10px;	
+}
+
+.register h1{
+	margin-top: 10px;
+	text-align: center;
+	font-family: cursive;
+	color: gray;
+	
+}
+.register label{
+	font-family: cursive;
+	color: gray;
+	margin-top: 10px;
+}
+
+/* ...........................................index.jsp................................. */
+.index body{
+	text-align: center;
+}
+.col-sm-3{
+	position: relative;
+	width: 100%;
+	
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-bottom: 15px;
+}
+.events_wrapper{
+	position:relative;
+	height: 100%;
+	width:100%;
+	text-align: center;
+	border: thin solid rgb(128, 128, 192);
+	margin-top: 20px;
+	display: inline-block;
+	box-shadow: 1px 1px 10px #89a5b3;
+	font-size: small;
+	
+}
+
+
+.pimg{
+	width: 100%;
+	height: 70%;
+	
+}
+
+
+.action-wrapper{
+	position:absolute;
+	bottom:0px;
+	padding-left:15%;
+	 justify-content: center;
+	
+	
+}
+/* --------------------------Banner Section -------------------*/
+.banner{
+	width: 100%;
+	
+	
+	
+}
+.banner > .banner-image{
+	width: 100%;
+}
+
+/*----------------------------Sticky Events List----------------  */
+
+.stickyEventList{
+	position: fixed;
+	bottom: 20px;
+	background-color: black;
+	color: white;
+	width: 100px;
+	right: 0px;
+	border-radius: 100px 0px 0px 100px;
+	padding: 5px;
+	padding-left: 20px;
+	font-size: 15px;
+	cursor: pointer;
+	
+	
+}
+/*------------------EventPage-------- */
+
+
+
+.content-top.grid-container{
+	width:100%;
+}
+div.grid_container{
+	max-width: 1140px;
+	padding: 8px;
+}
+.content-top{
+	box-shadow: none;
+	border-bottom: 1px solid white;
+	position: relative;
+}
+.grid_container{
+	margin-left: auto;
+	margin-right: auto;
+}
+.content-top .box_image{
+	padding: 15px 25px;
+	float: left;
+}
+.grid_container .grid_4{
+	width: 50%;
+}
+.grid_4{
+	display: inline;
+	position: relative;
+}
+.content-top .box_image img{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.content-top .box_content{
+	padding: 25px 25px 0 0;
+	overflow: hidden;
+}
+.grid_container .grid_8{
+	width:50%;
+}
+.grid_8{
+	display: inline;
+	float: left;
+	position: relative;
+}
+.content-top .box_content .title{
+	font-size: 50px;
+	color:olive;
+	font-family:sans-serif;
+	margin-bottom: 15px;
+}
+.title{
+	font-weight: 300;
+}
+div{
+	margin: 0;
+	padding: 0;
+}
+.description{
+	font-size: 17px;
+	font-style: italic;
+}
+body{
+	font-size: 14px;
+	line-height: 24px;
+}
